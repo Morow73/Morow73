@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Morow73&theme=codeSTACKr&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morow73&layout=compact&theme=codeSTACKr" />
+</a>
+
 <!--
 **Morow73/Morow73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=Morow73)
